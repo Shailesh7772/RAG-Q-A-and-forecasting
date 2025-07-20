@@ -12,3 +12,4 @@ numpy>=1.21.0
 holidays>=0.21
 cmdstanpy>=1.0.4
 faiss-cpu>=1.7.4
+openai>=1.0.0
