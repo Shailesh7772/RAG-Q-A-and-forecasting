@@ -7,8 +7,8 @@ import shutil
 
 # Set page config at the very top
 st.set_page_config(
-    page_title="RAG in Real Estate",
-    page_icon="🏠",
+    page_title="RAG-Based Forecasting & Q&A System",
+    page_icon="🔮",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -130,7 +130,7 @@ def handle_uploaded_file(uploaded_file):
 
 # Sidebar
 with st.sidebar:
-    st.title("🏡 RAG in Real Estate")
+    st.title("🔮 RAG-Based Forecasting & Q&A System")
     st.markdown("---")
     st.markdown("""
     ### Features:
@@ -165,7 +165,7 @@ with st.sidebar:
                 st.error(error)
 
 # Main content
-st.title("RAG in Real Estate")
+st.title("RAG-Based Forecasting & Q&A System")
 
 # Create three columns with better proportions
 col1, col2, col3 = st.columns([1, 2, 1])
