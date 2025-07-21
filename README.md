@@ -1,7 +1,10 @@
+Sure! Here's the improved version of your README with the **App Demo** section placed at the very beginning, just after the project title:
 
 ---
 
 # RAG-Project-for-AI-Applications-and-Forecasting
+
+🔗 **Live Demo**: [Try the App on Streamlit](https://rag-q-a-and-forecasting-bl9alxlhbgadxdzrthspot.streamlit.app/)
 
 This project is a **Streamlit web application** that leverages **Retrieval-Augmented Generation (RAG)** and **advanced forecasting techniques** to provide intelligent insights, Q\&A capabilities, and trend predictions using unstructured data sources like PDFs.
 
@@ -87,3 +90,4 @@ This project is licensed under the **MIT License**.
 
 ---
 
+Let me know if you’d like to include demo screenshots, a walkthrough video, or a badge (like “Live App 🚀”) for more visual appeal.
